@@ -28,3 +28,7 @@
   * [模块5 基于分页的虚拟系统](chapter4-nei-cun-guan-li/mo-kuai-5-ji-yu-fen-ye-de-xu-ni-xi-tong.md)
   * [模块6 分段存储管理](chapter4-nei-cun-guan-li/mo-kuai-6-fen-duan-cun-chu-guan-li.md)
   * [模块7 Linux的伙伴系统](chapter4-nei-cun-guan-li/mo-kuai-7-linux-de-huo-ban-xi-tong.md)
+* [Chapter5 文件系统](chapter5-wen-jian-xi-tong/README.md)
+  * [模块1 文件](chapter5-wen-jian-xi-tong/mo-kuai-1-wen-jian.md)
+  * [模块2 目录](chapter5-wen-jian-xi-tong/mo-kuai-2-mu-lu.md)
+  * [模块3 文件系统的实现](chapter5-wen-jian-xi-tong/mo-kuai-3-wen-jian-xi-tong-de-shi-xian.md)
